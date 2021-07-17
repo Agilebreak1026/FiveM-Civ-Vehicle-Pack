@@ -8,7 +8,7 @@
 
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
 
-[***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/vZmRp7EqSS)
+[***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/KKNZnwMbhD)
 
 
 ***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
