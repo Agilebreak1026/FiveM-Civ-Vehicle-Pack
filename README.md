@@ -19,10 +19,3 @@
 ### vMenu
 - If vMenu is installed on your server, every vehicle in the pack will show under "Addon Vehicles"
 - You must update vMenu's addons.json file with all the vehicle names (see this [this example](example_vmenu_addons.json))
-
-<center><h1>All included cars with pictures and spawn codes</h1></center>
-
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Acura TL Type-S** | tltypes | ![Picture](./img/tltypes.webp) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
-
